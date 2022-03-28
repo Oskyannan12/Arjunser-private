@@ -23,7 +23,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/Arjun-ser-ofc/Arjunser-private)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arjun-ser-ofc/Arjunser-private) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oskyannan12/Arjunser-private) -->
 <details>
 <summary>Plugins</summary>
 <p>
